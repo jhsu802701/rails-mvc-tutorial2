@@ -16,6 +16,7 @@ end
 ```
 * A micropost must belong to a user.
 * These associations allow you to display every post belonging to a specific user or to display a Twitter-like feed of microposts.
+* NOTE: At this point, deleting a user does NOT automatically delete the user's microposts.  Automatically deleting a given user's microposts during this process requires adding code to the user model.  This is covered in the micropost chapter of Rails Tutorial.
 
 ## Outlining
 * Enter the command "sh outline.sh".
