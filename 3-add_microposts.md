@@ -11,3 +11,4 @@
 * Create another micropost with the content "Second micropost!" for the content and "1" for the user.
 * Create a micropost with the content "Third micropost!" for the content and "2" for the user.  This micropost belongs to the second user, Foo Bar.
 * Create a micropost with the content "Fourth micropost!" for the content and "2" for the user.  This micropost also belongs to the second user, Foo Bar.
+* Use the SQLite Browser in your host OS to view the microposts table in the database. You should now see the microposts you just entered.
